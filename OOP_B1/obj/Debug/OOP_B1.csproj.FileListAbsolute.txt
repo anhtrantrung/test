@@ -1,0 +1,7 @@
+C:\Users\Bravo15\source\repos\OOP_B1\OOP_B1\obj\Debug\OOP_B1.csproj.AssemblyReference.cache
+C:\Users\Bravo15\source\repos\OOP_B1\OOP_B1\obj\Debug\OOP_B1.csproj.CoreCompileInputs.cache
+C:\Users\Bravo15\source\repos\OOP_B1\OOP_B1\bin\Debug\OOP_B1.exe.config
+C:\Users\Bravo15\source\repos\OOP_B1\OOP_B1\bin\Debug\OOP_B1.exe
+C:\Users\Bravo15\source\repos\OOP_B1\OOP_B1\bin\Debug\OOP_B1.pdb
+C:\Users\Bravo15\source\repos\OOP_B1\OOP_B1\obj\Debug\OOP_B1.exe
+C:\Users\Bravo15\source\repos\OOP_B1\OOP_B1\obj\Debug\OOP_B1.pdb
